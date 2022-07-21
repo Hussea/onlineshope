@@ -1,0 +1,46 @@
+
+.main
+{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+
+input
+{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+button
+{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(30, 255, 0);
+    cursor: pointer;
+    margin-bottom: 15px;
+
+}
+
+label
+{
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: bisque;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(221, 111, 111);
+    font-weight: bold;
+}
